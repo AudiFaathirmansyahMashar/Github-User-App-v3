@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="deskripsi_tombol_cari">This is search button</string>
+    <string name="search_hint">Search..</string>
+    <string name="no_data">No data is available</string>
+    <string name="change_language">Change Language</string>
+    <string name="empty">EMPTY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="user_type">User Type : %s</string>
+    <string name="user_id">User ID : %d</string>
+    <string name="location_username">Location : %s  Username : %s</string>
+    <string name="count_company">Followers : %d  Following : %d  Repository : %d  Company : %s</string>
+    <string name="id_type">User ID : %d  Usertype : %s</string>
+    <string name="search_message">Input Is Empty</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="delete">Delete</string>
+    <string name="notif_title">Open aplication</string>
+    <string name="notif_message">Open The Application Today!</string>
+    <string name="set_repeat_alarm">Repeating alarm set up</string>
+    <string name="cancel_repeat_alarm">Repeating alarm canceled</string>
+    <string name="deleted_message">%s Deleted</string>
+    <string name="successfully_added">Data successfully update</string>
+    <string name="failed_added">Data failed to add</string>
+    <string name="something_wrong">Data already exists</string>
+    <string name="dialog_title">Add to favorite</string>
+    <string name="dialog_message">Want to add this profile to your favorite lists?</string>
+    <string name="dialog_positive">Yes</string>
+    <string name="dialog_negative">No</string>
+    <string name="favorite_title">Favorite</string>
+    <string name="failed_to_show">Data Failed To Show</string>
+    <string name="appwidget_text">BANNER FAVORITE</string>
+    <string name="gambar_favorite">Favorite pictures</string>
+    <string name="settings">Alarm Setting</string>
+    <string name="alarm_setting">Alarm setting</string>
+    <string name="notif_message_detail">When you press button <b>ACTIVE</b> the alarm will remind you to open the application every 09:00 AM, and when yout prenn button <b>NON-ACTIVE</b> the alarm will not actived</string>
+    <string name="apply">Active</string>
+    <string name="non_active">Non-Active</string>
+    <string name="turn_on">The alarm has been turn on at 09:00 AM</string>
+    <string name="turn_off">The alarm has been turn off</string>
+</resources>
