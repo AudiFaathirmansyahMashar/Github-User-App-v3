@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Customer</string>
+    <string name="no_data">No data is available</string>
+    <string name="change_language">Change Language</string>
+    <string name="empty">EMPTY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="user_type">User Type : %s</string>
+    <string name="user_id">User ID : %d</string>
+    <string name="location_username">Location : %s  Username : %s</string>
+    <string name="count_company">Followers : %d  Following : %d  Repository : %d  Company : %s</string>
+    <string name="id_type">User ID : %d  Usertype : %s</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="delete">Delete</string>
+    <string name="successfully_added">Data successfully update</string>
+    <string name="failed_added">Data failed to add</string>
+    <string name="something_wrong">Data already exists</string>
+    <string name="dialog_title">Add to favorite</string>
+    <string name="dialog_message">Want to add this profile to your favorite lists?</string>
+    <string name="dialog_positive">Yes</string>
+    <string name="dialog_negative">No</string>
+    <string name="favorite_title">Favorite</string>
+    <string name="failed_to_show">Data Failed To Show</string>
+</resources>

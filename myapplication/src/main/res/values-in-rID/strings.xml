@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pelanggan</string>
+    <string name="no_data">Data tidak ditemukan</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="empty">Kosong</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="user_type">Tipe Pengguna : %s</string>
+    <string name="user_id">ID Pengguna : %d</string>
+    <string name="location_username">Lokasi : %s  Nama Pengguna : %s</string>
+    <string name="count_company">Pengikut : %d  Mengikuti : %d  Penyimpanan : %d  Perusahaan : %s</string>
+    <string name="id_type">ID Pengguna : %d  Tipe Pengguna : %s</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="delete">Hapus</string>
+    <string name="successfully_added">Data berhasil ditambahkan</string>
+    <string name="failed_added">Data gagal ditambahkan</string>
+    <string name="something_wrong">Data telah ada</string>
+    <string name="dialog_title">Tambahkan ke favorite</string>
+    <string name="dialog_message">Ingin menambahkan profil ini ke daftar favorit anda?</string>
+    <string name="dialog_positive">Ya</string>
+    <string name="dialog_negative">Tidak</string>
+    <string name="favorite_title">Favorit</string>
+    <string name="failed_to_show">Data Gagal Ditampilkan</string>
+</resources>
